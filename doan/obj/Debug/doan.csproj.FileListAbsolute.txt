@@ -1,0 +1,10 @@
+C:\Users\cuong.cx165837\source\repos\doan\doan\obj\Debug\doan.csprojResolveAssemblyReference.cache
+C:\Users\cuong.cx165837\source\repos\doan\doan\obj\Debug\doan.Form1.resources
+C:\Users\cuong.cx165837\source\repos\doan\doan\obj\Debug\doan.Properties.Resources.resources
+C:\Users\cuong.cx165837\source\repos\doan\doan\obj\Debug\doan.csproj.GenerateResource.Cache
+C:\Users\cuong.cx165837\source\repos\doan\doan\obj\Debug\doan.csproj.CoreCompileInputs.cache
+C:\Users\cuong.cx165837\source\repos\doan\doan\bin\Debug\doan.exe.config
+C:\Users\cuong.cx165837\source\repos\doan\doan\bin\Debug\doan.exe
+C:\Users\cuong.cx165837\source\repos\doan\doan\bin\Debug\doan.pdb
+C:\Users\cuong.cx165837\source\repos\doan\doan\obj\Debug\doan.exe
+C:\Users\cuong.cx165837\source\repos\doan\doan\obj\Debug\doan.pdb
